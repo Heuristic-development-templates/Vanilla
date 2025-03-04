@@ -1,0 +1,14 @@
+*.7z
+*.csv
+*.dot
+*.log
+*.iml
+*.ppk
+*.svg
+*.xlsx
+./Results/*
+.idea
+/out
+/target
+META-INF/
+Results/
